@@ -1,0 +1,15 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Regina Bianchini de Miranda da Matta's Website"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "Welcome ! This is a website created by Regina to showcase her work. "
+
+["params.author"]
+name = "Regina Bianchini de Miranda da Matta"

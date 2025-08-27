@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example on Regina Bianchini de Miranda da Matta&#39;s Website</title>
+    <link>https://reginabmmatta.com/tags/example/</link>
+    <description>Recent content in Example on Regina Bianchini de Miranda da Matta&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Regina Bianchini de Miranda da Matta</copyright>
+    <lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://reginabmmatta.com/tags/example/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>First blog post</title>
+      <link>https://reginabmmatta.com/posts/1756337188783-first-blog-post/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://reginabmmatta.com/posts/1756337188783-first-blog-post/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://reginabmmatta.com/posts/1756337188783-first-blog-post/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,11 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "posts"
+pageRef = "posts"
+identifier = "DAeduEUwlc"
+weight = 9_999
+
+[[footer]]
+none = "none"
