@@ -5,6 +5,13 @@ none = "none"
 name = "posts"
 pageRef = "posts"
 identifier = "DAeduEUwlc"
+weight = 1
+
+[[main]]
+name = "About me"
+pre = "star"
+pageRef = "About me"
+identifier = "bBt8Iup9Rx"
 weight = 9_999
 
 [[footer]]

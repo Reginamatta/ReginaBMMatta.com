@@ -10,6 +10,20 @@ isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
 description = "Welcome ! This is a website created by Regina to showcase her work. "
+logo = "reginainsights-high-resolution-logo.png"
+
+[[params.author.links]]
+email = "reginamatta25@gmail.com"
+
+[[params.author.links]]
+github = "https://github.com/Reginamatta"
+
+[[params.author.links]]
+instagram = "rebianchinidamatta"
+
+[[params.author.links]]
+linkedin = "http://linkedin.com/in/regina-da-matta-a1b090250"
 
 ["params.author"]
 name = "Regina Bianchini de Miranda da Matta"
+bio = "computer programming student in sault college"
